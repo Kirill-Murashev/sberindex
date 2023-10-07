@@ -12,7 +12,7 @@ tables = [
     'secondary_offers',
     'primary_volume',
     'secondary_volume',
-    'exposure_period'
+    'secondary_exposure'
 ]
 
 # Create an Excel writer object
